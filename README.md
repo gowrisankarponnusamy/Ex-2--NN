@@ -53,8 +53,8 @@ STEP 11:Print the accuracy<BR>
 
 # PROGRAM:
 ```
-Developed by : S JAIGANESH
-Reg No. 212222240037
+Developed by : GOWRISANKAR P
+Reg No. 212222230041
 ```
 ```
 import numpy as np                                                      
